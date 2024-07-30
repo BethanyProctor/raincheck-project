@@ -6,7 +6,7 @@ RainCheck is a weather app with integrated music based on the current weather co
 
 ## Usage
 
-Visit RainCheck <a href= " https://bethanyproctor.github.io/raincheck-project/ ">here.</a>
+Visit RainCheck <a href= "https://bethanyproctor.github.io/raincheck-project/">here.</a>
 
 To get the most out of RainCheck, start by entering your city to view the current weather conditions. After viewing a city, you can lick the history button to the right of the search button to view the three recent cities you have searched. The theme of the app updates with the current weather conditions. Additionally, three playlists are provided based on the weather conditions, giving the user a soundtrack for their day.
 
